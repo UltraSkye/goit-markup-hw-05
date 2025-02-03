@@ -730,8 +730,10 @@ p {
 .modal__input-wrap {
   position: relative;
 }
-
-.modal__field, .modal__text {
+.modal__field {
+  margin-bottom: 8px;
+}
+.modal__text {
   margin-bottom: 16px;
 }
 
